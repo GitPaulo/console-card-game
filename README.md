@@ -1,4 +1,4 @@
-# Console Card Game
+# Console Card Game [ARCHIVED (REASON: OLD CODE)]
 A round based card game played through the console-line interface. 
 
 ### Features:
